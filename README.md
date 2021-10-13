@@ -2,9 +2,9 @@
 
 **Introduction**
 
-This project was developed to automate my Lasko fan based on temperature threshold. If the temperature is greater than 76F then turn the fan ON & if its less than 75F turn if off. 
+This project was created to automate my Lasko fan based on temperature threshold. If the temperature is greater than 76F then turn the fan On & if its less than 75F turn if off using infrared emitter. 
 
-**Note**:- This was an outcome of the Microsoft Hackathon 2021 and I participated in the Microsoft Garage challenge to build something from IOT kit which was provided by the Garage team.
+**Note**:- This is an outcome of the Microsoft Hackathon 2021 and I participated in the Microsoft Garage challenge to build something from IOT kit which was provided by the Garage team.
 
 **The IOT kit**
 1. Wio Terminal 
