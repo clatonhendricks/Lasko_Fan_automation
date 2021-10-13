@@ -17,6 +17,7 @@ This project was created to automate my Lasko fan based on temperature threshold
 3. TFT_eSPI - LCD screen
 4. Free_Fonts - font access
 
+**Video coming soon!**
 
 ![20211013_140704](https://user-images.githubusercontent.com/250326/137212845-46b6db96-7a91-4f3b-aed9-791015afdcf3.jpg)
 )
